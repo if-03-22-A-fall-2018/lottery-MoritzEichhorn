@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------
- *				HTBLA-Leonding / Class: <your class name here>
+ *				HTBLA-Leonding / Class: 2AHIF
  *-----------------------------------------------------------------------------
- * Exercise Number: #exercise_number#
+ * Exercise Number: 21
  * File:			lottery.c
- * Author(s):		Peter Bauer
- * Due Date:		#due#
+ * Author(s):		Eichhorn Moritz
+ * Due Date:		28.04.2019
  *-----------------------------------------------------------------------------
  * Description:
  * Implementation of a library for analyzing lottery tips.
